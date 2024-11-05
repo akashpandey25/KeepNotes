@@ -1,0 +1,1 @@
+A notes app using Room DB and MVVM (Model-View-ViewModel) architecture allows you to create, save, display, and delete notes while following best practices for Android app development. Here's a high-level summary of how such an app is structured and functions.
